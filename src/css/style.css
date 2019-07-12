@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left {
+    background-color: #61dafb;
+    height: 30px;
+}
+.right {
+    background-color: brown;
+    height: 30px;
+}
